@@ -1,0 +1,14 @@
+.product-list{
+    list-style-type: none;
+    border:1px black solid;
+    height: 575px;
+    padding-left: 0rem;
+}
+
+.product-list-item{
+    border-bottom:1px solid black;
+}
+
+.product-list-item:last-of-type{
+    border-bottom:0px;
+}
